@@ -6,8 +6,8 @@
 * Dart
 * JavaScript
 * TypeScript
-* Flutter
 * Solidity
+* Flutter
 * HardHat
 * Web3.js
 
