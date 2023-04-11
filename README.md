@@ -3,11 +3,10 @@
 ### My name is Omur and I'm a Software Engineer with experience on various programming languages. <br/> Interested in Blockchain technologies and Machine Learning.
 
 **My technology stack:**
-* Dart
+* Python
 * JavaScript
-* TypeScript
 * Solidity
-* Flutter
+* Rust
 * HardHat
 * Web3.js
 
