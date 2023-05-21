@@ -6,8 +6,8 @@
 * Python
 * JavaScript
 * Solidity
-* Rust
 * HardHat
+* Foundry
 * Web3.js
 
 📫 **Contact with me: [telegram](https://t.me/i_am_jedi)**
@@ -18,11 +18,6 @@
   srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
-<source
-  srcset="https://github-readme-stats.vercel.app/api?username=JediFaust&show_icons=true"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img src="https://github-readme-stats.vercel.app/api?username=JediFaust&show_icons=true" />
 </picture>
 
 ![](https://komarev.com/ghpvc/?username=JediFaust)
