@@ -5,6 +5,7 @@
 **My technology stack:**
 * Python
 * JavaScript
+* TypeScript
 * Solidity
 * HardHat
 * Foundry
