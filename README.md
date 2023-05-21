@@ -15,7 +15,7 @@
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust&layout=compact) -->
 <picture>
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=JediFaust&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust&show_icons=true&theme=dark"
   media="(prefers-color-scheme: dark)"
 />
 <source
