@@ -12,13 +12,7 @@
 
 📫 **Contact with me: [telegram](https://t.me/i_am_jedi)**
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust&layout=compact) -->
-<picture>
-<source
-  srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust&show_icons=true&theme=dark"
-  media="(prefers-color-scheme: dark)"
-/>
-</picture>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JediFaust)
 
 ![](https://komarev.com/ghpvc/?username=JediFaust)
 
