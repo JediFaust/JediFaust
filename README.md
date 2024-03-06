@@ -1,6 +1,6 @@
 # Hello there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-### My name is Omur and I'm a Software Engineer with experience on various programming languages. <br/> Interested in Blockchain technologies and Machine Learning.
+### My name is Omur and I'm a Software Engineer with experience on wide amount of technologies. <br/> Interested in Blockchain Security and AI Automation.
 
 **My technology stack:**
 * Python
